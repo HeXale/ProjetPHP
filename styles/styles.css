@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+<title>Untitled</title>
+<style type="text/css">
+<!-- 
+
+.itemText { text-decoration: none; color: #CC0000; font:  12px Arial, Helvetica; font-weight: Bold }
+.itemText:link { text-decoration: none; color: #CC0000; font: 12px Arial, Helvetica;font-weight: bold }
+.itemText:hover { text-decoration: none; color: #666666; font: 12px Arial, Helvetica;font-weight: bold }
+.itemText:active { text-decoration: none; color: #CC0000; font: 12px Arial, Helvetica;font-weight: bold }
+
+.crazyBorder { border: solid 1px  #CCCC00 }
+.crazyText { text-decoration: none; color: #666666; font: 11px Arial, Helvetica;font-weight: bold }
+.crazyText:link { text-decoration: none; color: #666666; font: 11px Arial, Helvetica;font-weight: bold }
+.crazyText:hover { text-decoration: none; color: #CC0000; font: 11px Arial, Helvetica;font-weight: bold }
+.crazyText:active { text-decoration: none; color: #666666; font: 11px Arial, Helvetica;font-weight: bold }
+		
+a { color: #666666; font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none }
+a:hover {color:#CC0000;text-decoration: none ;font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;}
+a:active {text-decoration: none; color: #CC3333;font-size: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;}
+
+.texte { text-decoration: none; color: #000000; font: 12px Arial, Helvetica; }
+
+.boite { background-color: #ffffff; padding: 2; border: solid 1pt #333399 }
+.boite1 { background-color: #9999ff; padding: 2; border: solid 1pt #333399 }
+.boite2 { background-color: #99CCff; padding: 2; border: solid 1pt #333399 }
+.boite3 { background-color: #ffffff; padding: 2; border: solid 1pt #333399 }
+.boite4 { background-color: #ffffff; padding: 2; border: solid 1pt #333399 }
+
+.chemin {color:#9D9895;font-size= 12 px; font-family='arial'}
+.rubrique{color:#FF9900;font-family='arial' ;font-weight: bold; font-size: 16 px; text-decoration: none}
+
+
+.lienhaut:link{text-decoration:none; color:#333399}
+.lienhaut:active { color: #333399; text-decoration: none }
+.lienhaut:hover { color: #333399; text-decoration: underline }
+.lienhaut:visited { text-decoration: none }
+
+.lienext:link{text-decoration:none; color:#333399}
+.lienext:active { color: #333399; text-decoration: none }
+.lienext:hover { color: #ffff00; text-decoration: none }
+.lienext:visited { text-decoration: none }
+
+.lienprinc:active { color: #333399; text-decoration: none }
+.lienprinc:hover { color: #009933; text-decoration: none }
+.lienprinc:link {color: #333399; text-decoration: none }
+.lienprinc:visited { color: #333399; text-decoration: none }
+
+.lienrub:active { color: white; font-weight: bold; font-size: 12px; text-decoration: none }
+.lienrub:hover { color: red; font-size: 12px; text-decoration: underline }
+.lienrub:visited { color: #333399; text-decoration: none }
+.titre{text-decoration:none; color:#333399; background-color: none; border-style: solid;
+border-width:1; border-color:#333399; padding:2; width:100}
